@@ -18,8 +18,8 @@
 - [Как работает браузер](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
 - [Побольше про атрубут rel у тега <link>](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel)
 - [Lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
-- [async/defer у тега <script>]([https://learn.javascript.ru/script-async-defer](https://doka.guide/html/defer-async/)
-- [Подробнее о async/defer у тега <script>](https://learn.javascript.ru/script-async-defer)
+- [async/defer у тега <script>](https://doka.guide/html/defer-async/)
+- [Подробнее об async/defer у тега <script>](https://learn.javascript.ru/script-async-defer)
   
 ![image](https://github.com/P1usW/Tech_Meetup_1/assets/101716465/6307d0ed-fc67-4230-b334-fc76ff7098d9)
 
@@ -42,7 +42,7 @@
 - [TerserPlugin](https://webpack.js.org/plugins/terser-webpack-plugin/)
 - [А так же множество других прекарсный оффициальных плагинов](https://webpack.js.org/plugins/)
 
-- [Tree Shaking]([https://webpack.js.org/guides/tree-shaking/](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking)
+- [Tree Shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking)
 
 ### [Lazy loading](https://webpack.js.org/guides/lazy-loading/)
 
