@@ -48,7 +48,7 @@
 
 - [Lazy loading in React](https://react.dev/reference/react/lazy)
 - [Lazy loading in Vue3](https://router.vuejs.org/guide/advanced/lazy-loading.html)
-- [Lazy loading in Angular]([https://router.vuejs.org/guide/advanced/lazy-loading.html](https://angular.io/guide/lazy-loading-ngmodules)
+- [Lazy loading in Angular](https://angular.io/guide/lazy-loading-ngmodules)
 - import() in JS
   - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/import)
   - [Learn Java Script](https://learn.javascript.ru/modules-dynamic-imports)
