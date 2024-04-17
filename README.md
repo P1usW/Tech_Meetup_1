@@ -68,6 +68,7 @@
 - [Code Spliting](https://webpack.js.org/guides/code-splitting/)
 - [Browserlist](https://browsersl.ist/)
 - [Избавляемся от старья, но смотрим поддержку фичи](https://caniuse.com/)
+- [Плагин для типизация CSS modules](https://www.npmjs.com/package/typescript-plugin-css-modules)
 
 
 
