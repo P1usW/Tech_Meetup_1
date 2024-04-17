@@ -41,6 +41,7 @@
 - [CompressionPlugin](https://webpack.js.org/plugins/compression-webpack-plugin/)
 - [TerserPlugin](https://webpack.js.org/plugins/terser-webpack-plugin/)
 - [А так же множество других прекарсный оффициальных плагинов](https://webpack.js.org/plugins/)
+- [Webpack module methods](https://webpack.js.org/api/module-methods/)
 
 - [Tree Shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking)
 
