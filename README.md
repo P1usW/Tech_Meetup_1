@@ -20,8 +20,6 @@
 - [Lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
 - [async/defer у тега <script>](https://doka.guide/html/defer-async/)
 - [Подробнее об async/defer у тега <script>](https://learn.javascript.ru/script-async-defer)
-  
-![image](https://github.com/P1usW/Tech_Meetup_1/assets/101716465/6307d0ed-fc67-4230-b334-fc76ff7098d9)
 
 ## CSS
 
