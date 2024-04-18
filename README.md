@@ -16,7 +16,7 @@
 ## HTML
 
 - [Как работает браузер](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
-- [Побольше про атрубут rel у тега <link>](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel)
+- [Побольше про атрубут rel у тега link](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel)
 - [Lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
 - [async/defer у тега <script>](https://doka.guide/html/defer-async/)
 - [Подробнее об async/defer у тега <script>](https://learn.javascript.ru/script-async-defer)
@@ -59,7 +59,7 @@
 ### Разные статьи и видео по теме
 
 - [Статья на habr](https://habr.com/ru/companies/hh/articles/513940/)
-- [Про тег <link>](https://habr.com/ru/articles/445264/)
+- [Про тег link](https://habr.com/ru/articles/445264/)
 - [Очень много информации о Web Perfomance](https://developer.mozilla.org/ru/docs/Web/Performance)
 - [Заменяем loading="lazy" своими руками](https://habr.com/ru/companies/ruvds/articles/423485/)
 - [Ещё немного про webpack](https://habr.com/ru/companies/jugru/articles/342842/)
