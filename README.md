@@ -64,6 +64,8 @@
 - [Заменяем loading="lazy" своими руками](https://habr.com/ru/companies/ruvds/articles/423485/)
 - [Ещё немного про webpack](https://habr.com/ru/companies/jugru/articles/342842/)
 
+- [**Про метрики и о том, как пользоватешль воспринимает наши приложения**](https://habr.com/ru/companies/ddosguard/articles/499756/)
+
 ### Куча разной информации
 
 - [Code Spliting](https://webpack.js.org/guides/code-splitting/)
